@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AndiHafiidh/NodeJS/issues"
   },
-  "homepage": "https://github.com/AndiHafiidh/NodeJS#readme"
+  "homepage": "https://github.com/AndiHafiidh/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "yargs": "^11.0.0"
+  }
 }
